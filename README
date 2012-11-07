@@ -1,3 +1,5 @@
+This branch is attempting to add golang (http://golang.org) support
+
 Tagbar is a vim plugin for browsing the tags of source code files. It provides
 a sidebar that displays the ctags-generated tags of the current file, ordered
 by their scope. This means that for example methods in C++ are displayed under
